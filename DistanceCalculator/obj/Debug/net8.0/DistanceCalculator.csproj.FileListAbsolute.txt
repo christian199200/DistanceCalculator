@@ -1,0 +1,17 @@
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.exe
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.deps.json
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.runtimeconfig.json
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.dll
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.pdb
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.csproj.AssemblyReference.cache
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.AssemblyInfo.cs
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\Distance.95B24FC7.Up2Date
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.dll
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\refint\DistanceCalculator.dll
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.pdb
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.genruntimeconfig.cache
+C:\Users\tchou\RiderProjects\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\ref\DistanceCalculator.dll
